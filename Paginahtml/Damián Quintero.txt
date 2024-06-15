@@ -1,0 +1,20 @@
+<! DOCTYPE HTML>
+<HTML lang=“es”>
+<HEAD> 
+<TITLE> Damián Quintero </TITLE> 
+<META HTTP-EQUIV="Refresh" CONTENT="3"> 
+</HEAD>
+<BODY> 
+<H1 align="center"><FONT size="200" color="#2E4053">Damián Quintero</H1></FONT>
+<img align="right"
+src="https://www.aboutdaedo.com/wp-content/uploads/2019/04/damian-quintero-teamdaedo.jpg">
+<H1 align="center"><FONT size="6" color="#85929E">Damián Hugo Quintero Capdevila (Buenos Aires, Argentina, 4 de julio de 1984) es un deportista español que compite en karate, en la modalidad de kata. Es subcampeón olímpico, cuatro veces subcampeón mundial y siete veces campeón europeo.</FONT>​
+<H1 align="center"><FONT size="6" color="#85929E">Participó en los Juegos Olímpicos de Tokio 2020, obteniendo una medalla de plata en la prueba masculina.​ En los Juegos Europeos consiguió tres medallas, oro en Bakú 2015, oro en Minsk 2019 y oro en Cracovia 2023.</FONT>
+<H1 align="center"><FONT size="6" color="#85929E">Ganó cuatro medallas de plata en el Campeonato Mundial de Karate entre los años 2016 y 2023, y doce medallas en el Campeonato Europeo de Karate entre los años 2004 y 2023.</FONT>
+<BR>
+<BUTTON onclick="location.href='file:///C:/Users/Victoria/Desktop/P%C3%A1gina%20Principal.html'"> Volver </BUTTON>
+<BUTTON onclick="location.href='file:///C:/Users/Victoria/Desktop/Sandra%20S%C3%A1nchez.html'"> Atrás </BUTTON>
+<BUTTON onclick="location.href='file:///C:/Users/Victoria/Desktop/Carmen%20Vicente.html'"> Siguiente </BUTTON>
+
+</BODY> 
+</HTML> 

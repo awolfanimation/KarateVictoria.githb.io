@@ -1,0 +1,16 @@
+<! DOCTYPE HTML>
+<HTML lang=“es”>
+<HEAD> 
+<TITLE> Carmen Vicente </TITLE> 
+<META HTTP-EQUIV="Refresh" CONTENT="3"> 
+</HEAD>
+<BODY> 
+<H1 align="center"><FONT size="200" color="#2E4053">Carmen Vicente</H1></FONT>
+<img align="right"
+src="https://3.bp.blogspot.com/_WfY7sDiMDb4/SuVm9QoqWMI/AAAAAAAABO4/H8l1zpLyXF4/w1200-h630-p-k-no-nu/redimensionar.jpg">
+<H1 align="center"><FONT size="6" color="#85929E">Carmen Vicente Cabañas, es una deportista española nacida en Las Palmas de Gran Canaria en el año 1987. Es Licenciada en Ciencias de la Facultad Física y del Deporte por la Universidad de Las Palmas de Gran Canaria, posee un máster en Especialización Directiva, es Técnico en Nutrición deportiva y Entrenadora de CrossFit Level1 entre otros.</FONT>​
+<BR>
+<BUTTON onclick="location.href='file:///C:/Users/Victoria/Desktop/P%C3%A1gina%20Principal.html'"> Volver </BUTTON>
+<BUTTON onclick="location.href='file:///C:/Users/Victoria/Desktop/Dami%C3%A1n%20Quintero.html'"> Atrás </BUTTON>
+</BODY> 
+</HTML> 
